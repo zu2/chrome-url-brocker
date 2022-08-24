@@ -1,7 +1,8 @@
-# cube
-> Chrome URL Blocking Extension
+# chrome url brocker
 
 This is a custom [Google Chrome](https://www.google.com/chrome/) extension that blocks pre-determined [URL](https://en.wikipedia.org/wiki/URL)s.
+
+fork from https://github.com/picatz/cube
 
 ## Installation
 
